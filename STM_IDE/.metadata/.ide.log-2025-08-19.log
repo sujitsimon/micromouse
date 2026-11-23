@@ -1,0 +1,4 @@
+2025-08-19 11:12:44,921 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-08-19 11:12:46,953 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-08-19 11:12:59,341 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-08-19 11:12:59,343 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

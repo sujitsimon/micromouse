@@ -1,0 +1,10 @@
+18:56:51 **** Incremental Build of configuration Debug for project Alohomora ****
+make -j28 all 
+arm-none-eabi-size  Alohomora.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14996	     12	   2108	  17116	   42dc	Alohomora.elf
+Finished building: default.size.stdout
+ 
+
+18:56:51 Build Finished. 0 errors, 0 warnings. (took 440ms)
+

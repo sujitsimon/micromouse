@@ -1,0 +1,10 @@
+﻿"No. of Teeth"= 25
+"Module"= 1.5
+"Bore Diameter"= 3
+"Pressure Angle"= 20
+"Outer Diameter"= ( "No. of Teeth" + 2 ) * "Module"
+"Pitch Diameter"= "No. of Teeth" * "Module"
+"Backlash"= 0.3 * "Module"
+"Arc Length"= ( ( "Module" * pi ) / 2 ) + "Backlash"
+"Fillet Radius"= 0.38 * "Module"
+"Tooth Depth"= IIF ( "Module" <= 1.25 , 2.4 * "Module" , 2.25 * "Module" )

@@ -1,0 +1,123 @@
+#line 1 "C:\\D_Drive\\Events\\MicroMouse\\hardware\\micromouse_main\\angle_monitor.cpp"
+#include "angle_monitor.h"
+
+AngleMonitor *AngleMonitor::m_angle_monitor = nullptr;
+
+AngleMonitor::AngleMonitor(Logger *loggerInstance) : m_logger(loggerInstance)
+{
+  // do nothing
+}
+
+AngleMonitor::~AngleMonitor()
+{
+  // do nothing
+}
+
+void AngleMonitor::initialize()
+{
+  Wire.begin();
+  Wire.setClock(400000);
+  accelgyro.initialize();
+  //m_logger->println("Testing device connections...");
+  m_logger->println(accelgyro.testConnection() ? "MPU6050 connection successful" : "MPU6050 connection failed");
+  devStatus = accelgyro.dmpInitialize();
+  calib = new MPU6050Calibration(accelgyro, m_logger);
+  calib->readOffsetsFromFlash();
+  calib->updateOffset(ax_offset, ay_offset, az_offset, gx_offset, gy_offset, gz_offset);
+  accelgyro.setXAccelOffset(ax_offset);
+  accelgyro.setYAccelOffset(ay_offset);
+  accelgyro.setZAccelOffset(az_offset);
+  accelgyro.setXGyroOffset(gx_offset);
+  accelgyro.setYGyroOffset(gy_offset);
+  accelgyro.setZGyroOffset(gz_offset);
+  if (devStatus == 0) {
+    //accelgyro.CalibrateAccel(10);
+    //accelgyro.CalibrateGyro(30);
+    //accelgyro.PrintActiveOffsets();
+    accelgyro.setDMPEnabled(true);
+    mpuIntStatus = accelgyro.getIntStatus();
+    dmpReady = true;
+    packetSize = accelgyro.dmpGetFIFOPacketSize();
+  }
+  else {
+        m_logger->print(F("DMP Initialization failed (code "));
+        m_logger->print(devStatus);
+        m_logger->println(F(")"));
+    }
+  isInit = true;
+}
+
+void AngleMonitor::updateOffset(float offset) {
+  this->offset = offset;
+}
+
+float AngleMonitor::getMouseAngle()
+{
+  return yaw - offset;
+}
+
+void AngleMonitor::clearAngleError(int angle) {
+  yaw = angle;
+}
+
+void AngleMonitor::loop()
+{
+  if (!dmpReady) return;
+  if (accelgyro.dmpGetCurrentFIFOPacket(fifoBuffer)) {
+
+    //Angle Monitor
+    accelgyro.dmpGetQuaternion(&q, fifoBuffer);
+    accelgyro.dmpGetGravity(&gravity, &q);
+    accelgyro.dmpGetYawPitchRoll(ypr, &q, &gravity);
+    yaw = ypr[0] * 180/M_PI;
+    yaw = map(yaw, -180, 180, 0, 360) + 180;
+    yaw = fmod(yaw, 360);
+    m_logger->print("ypr:\t");
+    m_logger->println(yaw);
+
+    //Linear Accleration
+    // accelgyro.dmpGetAccel(&aa, fifoBuffer);
+    // accelgyro.dmpGetGravity(&gravity, &q);
+    // accelgyro.dmpGetLinearAccel(&aaReal, &aa, &gravity);
+    // m_logger->print("areal\t");
+    // m_logger->print(aaReal.x);
+    // m_logger->print("\t");
+    // m_logger->print(aaReal.y);
+    // m_logger->print("\t");
+    // m_logger->println(aaReal.z); 
+  }
+}
+
+void AngleMonitor::printOffset()
+{
+  accelgyro.PrintActiveOffsets();
+}
+
+void AngleMonitor::calibrateOffset() {
+  m_logger->println("Calibrating MPU6050");
+  if (!isInit) {
+    m_logger->println("MPU6050 not initialized");
+    initialize();
+  }
+  calib->Calibrate();
+  m_logger->println("Updating Offsets Complete");
+  calib->updateOffset(ax_offset, ay_offset, az_offset, gx_offset, gy_offset, gz_offset);
+  accelgyro.setXAccelOffset(ax_offset);
+  accelgyro.setYAccelOffset(ay_offset);
+  accelgyro.setZAccelOffset(az_offset);
+  accelgyro.setXGyroOffset(gx_offset);
+  accelgyro.setYGyroOffset(gy_offset);
+  accelgyro.setZGyroOffset(gz_offset);
+  m_logger->println("Storing Offsets");
+  calib->storeOffsets();
+  m_logger->println("Calibration Complete");
+}
+
+
+int16_t AngleMonitor::getXDisplacement() {
+  return aaReal.x;
+}
+
+int16_t AngleMonitor::getYDisplacement() {
+  return aaReal.y;
+}

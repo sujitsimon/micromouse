@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="PWM"/>
+		<item value="hspi3"/>
+		<item value="MX_SPI3_Init"/>
+		<item value="BL"/>
+	</list>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="HAL_GPIO_WritePin(LED_SOLVE_GPIO_Port, LED_SOLVE_Pin, GPIO_PIN_SET);"/>
+		<list key="findhistory">
+			<item value="HAL_GPIO_WritePin(LED_SOLVE_GPIO_Port, LED_SOLVE_Pin, GPIO_PIN_SET);"/>
+			<item value="const uint8_t font_5x7[96][5] = {"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,15 @@
+../Core/Src/main.c:88:5:main	1
+../Core/Src/main.c:146:6:SystemClock_Config	3
+../Core/Src/main.c:193:13:MX_ADC1_Init	3
+../Core/Src/main.c:245:13:MX_SPI1_Init	2
+../Core/Src/main.c:283:13:MX_SPI3_Init	2
+../Core/Src/main.c:321:13:MX_TIM1_Init	7
+../Core/Src/main.c:396:13:MX_TIM2_Init	6
+../Core/Src/main.c:455:13:MX_TIM4_Init	9
+../Core/Src/main.c:526:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:559:13:MX_GPIO_Init	1
+../Core/Src/main.c:642:6:HCMS2903_Init	1
+../Core/Src/main.c:665:6:HCMS2903_WriteControl	1
+../Core/Src/main.c:672:6:HCMS2903_WriteChar	4
+../Core/Src/main.c:690:6:HCMS2903_DisplayString	3
+../Core/Src/main.c:704:6:Error_Handler	1

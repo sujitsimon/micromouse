@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "{build.flags.optimize} {build.flags.debug}",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "STMicroelectronics:stm32:GenF4:pnum=BLACKPILL_F411CE,upload_method=serialMethod,xserial=generic,usb=CDCgen,xusb=FS,opt=o3std,dbg=none,rtlib=nano",
+  "hardwareFolders": "C:\\Users\\suj6cob\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\suj6cob\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\D_Drive\\Events\\MicroMouse\\hardware\\micromouse_main"
+}

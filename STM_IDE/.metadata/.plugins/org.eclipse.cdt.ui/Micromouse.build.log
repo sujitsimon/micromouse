@@ -1,0 +1,10 @@
+16:25:54 **** Build of configuration Release for project Micromouse ****
+make -j28 all 
+arm-none-eabi-size  Micromouse.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3920	     12	   1572	   5504	   1580	Micromouse.elf
+Finished building: default.size.stdout
+ 
+
+16:25:54 Build Finished. 0 errors, 0 warnings. (took 251ms)
+

@@ -1,0 +1,4 @@
+2025-07-25 10:37:01,618 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connection refused: getsockopt
+2025-07-25 10:37:01,625 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connection refused: getsockopt
+2025-07-25 10:37:01,625 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connection refused: getsockopt
+2025-07-25 10:37:02,550 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

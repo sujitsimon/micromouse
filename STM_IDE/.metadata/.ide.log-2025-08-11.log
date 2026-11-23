@@ -1,0 +1,78 @@
+2025-08-13 10:18:13,102 [INFO] WebApp:194 - Connection lost
+2025-08-13 10:19:39,131 [INFO] WebApp:191 - Connection restablished
+2025-08-13 11:00:01,912 [INFO] WebApp:194 - Connection lost
+2025-08-13 11:00:24,870 [INFO] WebApp:191 - Connection restablished
+2025-08-13 14:24:59,096 [INFO] WebApp:194 - Connection lost
+2025-08-13 14:25:05,672 [INFO] WebApp:191 - Connection restablished
+2025-08-13 14:25:05,880 [INFO] WebApp:194 - Connection lost
+2025-08-13 14:25:06,155 [INFO] WebApp:191 - Connection restablished
+2025-08-13 14:25:09,093 [INFO] WebApp:194 - Connection lost
+2025-08-13 14:25:10,034 [INFO] WebApp:191 - Connection restablished
+2025-08-13 14:36:51,067 [INFO] WebApp:194 - Connection lost
+2025-08-13 14:36:51,934 [INFO] WebApp:191 - Connection restablished
+2025-08-13 14:40:56,540 [INFO] WebApp:194 - Connection lost
+2025-08-13 14:40:57,480 [INFO] WebApp:191 - Connection restablished
+2025-08-13 14:42:12,555 [INFO] WebApp:194 - Connection lost
+2025-08-13 14:42:13,440 [INFO] WebApp:191 - Connection restablished
+2025-08-13 15:19:51,548 [INFO] WebApp:194 - Connection lost
+2025-08-13 15:19:52,542 [INFO] WebApp:191 - Connection restablished
+2025-08-13 15:33:53,042 [INFO] WebApp:194 - Connection lost
+2025-08-13 15:33:54,106 [INFO] WebApp:191 - Connection restablished
+2025-08-13 15:45:20,044 [INFO] WebApp:194 - Connection lost
+2025-08-13 15:45:21,002 [INFO] WebApp:191 - Connection restablished
+2025-08-13 15:57:34,554 [INFO] WebApp:194 - Connection lost
+2025-08-13 15:57:35,549 [INFO] WebApp:191 - Connection restablished
+2025-08-13 16:00:36,528 [INFO] WebApp:194 - Connection lost
+2025-08-13 16:00:37,502 [INFO] WebApp:191 - Connection restablished
+2025-08-13 16:24:00,036 [INFO] WebApp:194 - Connection lost
+2025-08-13 16:24:00,875 [INFO] WebApp:191 - Connection restablished
+2025-08-13 16:55:48,961 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:55:49,062 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:56:11,139 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:56:11,195 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:56:14,110 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:56:14,160 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:56:36,539 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:56:36,593 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:56:38,987 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:56:39,037 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-13 16:57:13,448 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 821925160 Bytes (1073741824)
+2025-08-13 16:57:14,704 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 842374440 Bytes (1073741824)
+2025-08-13 16:57:16,144 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 971871528 Bytes (1073741824)
+2025-08-13 16:57:16,337 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-13 16:57:16,337 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-13 16:57:16,337 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-08-13 16:57:16,337 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-08-13 16:57:16,337 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-13 16:57:16,337 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-08-13 16:57:16,338 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-13 16:57:16,338 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-13 16:57:16,338 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-08-13 16:57:16,338 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-13 16:57:16,341 [INFO] CodeGenerator:882 - code generatio: config db path: C:\ST\STM32CubeIDE_1.18.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.1.202504091515\\db\
+2025-08-13 16:57:16,410 [INFO] CodeEngine:263 - oldGeneratedFile, C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\MXTmpFiles\license.tmp_save
+2025-08-13 16:57:16,561 [INFO] CodeEngine:287 - Generated code: C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\MXTmpFiles\license.tmp
+2025-08-13 16:57:16,594 [INFO] CodeEngine:263 - oldGeneratedFile, C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\MXTmpFiles\gpio.tmp_save
+2025-08-13 16:57:16,676 [INFO] CodeEngine:287 - Generated code: C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\MXTmpFiles\gpio.tmp
+2025-08-13 16:57:16,825 [INFO] CodeEngine:263 - oldGeneratedFile, C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Src\stm32f4xx_it.c_save
+2025-08-13 16:57:16,959 [INFO] CodeEngine:287 - Generated code: C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Src\stm32f4xx_it.c
+2025-08-13 16:57:16,976 [INFO] CodeEngine:263 - oldGeneratedFile, C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Inc\stm32f4xx_it.h_save
+2025-08-13 16:57:17,009 [INFO] CodeEngine:287 - Generated code: C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Inc\stm32f4xx_it.h
+2025-08-13 16:57:17,025 [INFO] CodeEngine:263 - oldGeneratedFile, C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Src\stm32f4xx_hal_msp.c_save
+2025-08-13 16:57:17,094 [INFO] CodeEngine:287 - Generated code: C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Src\stm32f4xx_hal_msp.c
+2025-08-13 16:57:17,109 [INFO] CodeEngine:263 - oldGeneratedFile, C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\MXTmpFiles\system.tmp_save
+2025-08-13 16:57:17,149 [INFO] CodeEngine:287 - Generated code: C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\MXTmpFiles\system.tmp
+2025-08-13 16:57:17,160 [INFO] CodeEngine:319 - oldGeneratedFile, C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-08-13 16:57:17,194 [INFO] CodeEngine:343 - Generated code: C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Inc\stm32f4xx_hal_conf.h
+2025-08-13 16:57:17,208 [WARN] IPConfigManager:3790 - IP not found : TIM
+2025-08-13 16:57:17,208 [WARN] CodeGenerator:4198 - IP not found : null
+2025-08-13 16:57:17,208 [INFO] CodeEngine:263 - oldGeneratedFile, C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Inc\main.h_save
+2025-08-13 16:57:17,267 [INFO] CodeEngine:287 - Generated code: C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Inc\main.h
+2025-08-13 16:57:17,272 [INFO] CodeEngine:263 - oldGeneratedFile, C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Src\main.c_save
+2025-08-13 16:57:17,358 [INFO] CodeEngine:287 - Generated code: C:\D_Drive\Events\MicroMouse\STM_IDE\Alohomora\Core\Src\main.c
+2025-08-13 16:57:17,804 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 278mS.
+2025-08-13 16:57:17,806 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-08-13 16:57:17,842 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-08-13 16:57:18,479 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 673mS.
+2025-08-13 16:57:18,480 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-08-13 16:57:18,482 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.

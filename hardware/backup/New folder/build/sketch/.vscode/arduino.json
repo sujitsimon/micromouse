@@ -1,0 +1,9 @@
+#line 1 "C:\\D_Drive\\Events\\MicroMouse\\hardware\\micromouse_main\\.vscode\\arduino.json"
+{
+    "configuration": "pnum=BLACKPILL_F411CE,upload_method=serialMethod,xserial=generic,usb=CDCgen,xusb=FS,opt=o3std,dbg=none,rtlib=nano",
+    "board": "STMicroelectronics:stm32:GenF4",
+    "sketch": "micromouse_main.ino",
+    "output": "./build",
+    "port": "COM18",
+    "postbuild": "upload.cmd"
+}

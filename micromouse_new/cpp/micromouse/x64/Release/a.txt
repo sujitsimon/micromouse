@@ -1,0 +1,4507 @@
+Loading File: C:\D_Drive\Events\MicroMouse\MazeSimulator\dist\Generated\20241018120922.json
+Moving to x: 0 y: 0
+Moving to x: 1 y: 0
+Moving to x: 2 y: 0
+Moving to x: 3 y: 0
+Moving to x: 4 y: 0
+Moving to x: 5 y: 0
+Moving to x: 6 y: 0
+Moving to x: 7 y: 0
+Moving to x: 8 y: 0
+Moving to x: 9 y: 0
+Moving to x: 10 y: 0
+Moving to x: 11 y: 0
+Moving to x: 12 y: 0
+Moving to x: 13 y: 0
+Moving to x: 14 y: 0
+Moving to x: 15 y: 0
+Moving to x: 15 y: 1
+Moving to x: 14 y: 1
+Moving to x: 14 y: 2
+Moving to x: 15 y: 2
+Moving to x: 15 y: 3
+Moving to x: 14 y: 3
+Moving to x: 14 y: 4
+Moving to x: 13 y: 4
+Moving to x: 13 y: 5
+Moving to x: 12 y: 5
+Moving to x: 12 y: 6
+Moving to x: 11 y: 6
+Moving to x: 11 y: 7
+Moving to x: 10 y: 7
+Moving to x: 10 y: 8
+Moving to x: 9 y: 8
+Adding x: 9, y: 8 to branch......
+Moving to x: 9 y: 9
+Moving to x: 8 y: 9
+Moving to x: 8 y: 10
+Moving to x: 7 y: 10
+Moving to x: 7 y: 11
+Moving to x: 6 y: 11
+Moving to x: 6 y: 12
+Moving to x: 5 y: 12
+Moving to x: 5 y: 13
+Moving to x: 4 y: 13
+Moving to x: 4 y: 14
+Moving to x: 3 y: 14
+Adding x: 3, y: 14 to branch......
+Moving to x: 3 y: 15
+Adding x: 3, y: 15 to branch......
+Moving to x: 4 y: 15
+Moving to x: 5 y: 15
+Moving to x: 6 y: 15
+Moving to x: 7 y: 15
+Moving to x: 8 y: 15
+Moving to x: 8 y: 14
+Moving to x: 9 y: 14
+Moving to x: 10 y: 14
+Moving to x: 10 y: 13
+Moving to x: 11 y: 13
+Adding x: 11, y: 13 to branch......
+Moving to x: 11 y: 14
+Moving to x: 11 y: 15
+Adding x: 11, y: 15 to branch......
+Moving to x: 12 y: 15
+Moving to x: 13 y: 15
+Adding x: 13, y: 15 to branch......
+Moving to x: 14 y: 15
+Moving to x: 15 y: 15
+Moving to x: 15 y: 14
+Moving to x: 14 y: 14
+Adding x: 14, y: 14 to branch......
+Moving to x: 14 y: 13
+Adding x: 14, y: 13 to branch......
+Moving to x: 15 y: 13
+Moving to x: 15 y: 12
+Moving to x: 14 y: 12
+Adding x: 14, y: 12 to branch......
+Moving to x: 14 y: 11
+Adding x: 14, y: 11 to branch......
+Moving to x: 15 y: 11
+Moving to x: 15 y: 10
+Moving to x: 14 y: 10
+Adding x: 14, y: 10 to branch......
+Moving to x: 14 y: 9
+Moving to x: 15 y: 9
+Moving to x: 15 y: 8
+Moving to x: 15 y: 7
+Moving to x: 14 y: 7
+Adding x: 14, y: 7 to branch......
+Moving to x: 14 y: 6
+Moving to x: 14 y: 5
+Moving to x: 15 y: 5
+Adding x: 15, y: 5 to branch......
+Moving to x: 15 y: 6
+Backtracking Start!!!!!
+Moving to x: 15 y: 5
+Backtracking End!!!!!
+Moving to x: 15 y: 4
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 14 y: 5
+Coordinates x: 15 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 5
+Coordinates x: 15 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 6
+Coordinates x: 15 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 6
+Coordinates x: 15 y: 5
+is diagonal end
+Moving to x: 15 y: 5
+Moving to x: 14 y: 5
+Moving to x: 14 y: 6
+Moving to x: 14 y: 7
+Backtracking End!!!!!
+Moving to x: 13 y: 7
+Adding x: 13, y: 7 to branch......
+Moving to x: 13 y: 8
+Adding x: 13, y: 8 to branch......
+Moving to x: 14 y: 8
+Backtracking Start!!!!!
+Moving to x: 13 y: 8
+Backtracking End!!!!!
+Moving to x: 12 y: 8
+Adding x: 12, y: 8 to branch......
+Moving to x: 12 y: 9
+Adding x: 12, y: 9 to branch......
+Moving to x: 13 y: 9
+Backtracking Start!!!!!
+Moving to x: 12 y: 9
+Backtracking End!!!!!
+Moving to x: 11 y: 9
+Adding x: 11, y: 9 to branch......
+Moving to x: 11 y: 10
+Adding x: 11, y: 10 to branch......
+Moving to x: 12 y: 10
+Backtracking Start!!!!!
+Moving to x: 11 y: 10
+Backtracking End!!!!!
+Moving to x: 10 y: 10
+Adding x: 10, y: 10 to branch......
+Moving to x: 10 y: 11
+Adding x: 10, y: 11 to branch......
+Moving to x: 11 y: 11
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 11 y: 11
+Coordinates x: 0 y: 0
+is diagonal end
+Moving to x: 10 y: 11
+Backtracking End!!!!!
+Moving to x: 9 y: 11
+Adding x: 9, y: 11 to branch......
+Moving to x: 9 y: 12
+Adding x: 9, y: 12 to branch......
+Moving to x: 10 y: 12
+Backtracking Start!!!!!
+Moving to x: 9 y: 12
+Backtracking End!!!!!
+Moving to x: 8 y: 12
+Adding x: 8, y: 12 to branch......
+Moving to x: 8 y: 13
+Adding x: 8, y: 13 to branch......
+Moving to x: 9 y: 13
+Backtracking Start!!!!!
+Moving to x: 8 y: 13
+Backtracking End!!!!!
+Moving to x: 7 y: 13
+Adding x: 7, y: 13 to branch......
+Moving to x: 7 y: 14
+Moving to x: 6 y: 14
+Adding x: 6, y: 14 to branch......
+Moving to x: 6 y: 13
+Backtracking Start!!!!!
+Moving to x: 6 y: 14
+Backtracking End!!!!!
+Moving to x: 5 y: 14
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 6 y: 13
+Coordinates x: 5 y: 14
+is diagonal end
+Moving to x: 6 y: 14
+Moving to x: 7 y: 14
+Moving to x: 7 y: 13
+Backtracking End!!!!!
+Moving to x: 7 y: 12
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 8 y: 13
+Coordinates x: 7 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 13
+Coordinates x: 7 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 13
+Coordinates x: 7 y: 12
+is diagonal end
+Moving to x: 7 y: 13
+Moving to x: 8 y: 13
+Moving to x: 8 y: 12
+Backtracking End!!!!!
+Moving to x: 8 y: 11
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 9 y: 12
+Coordinates x: 8 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 12
+Coordinates x: 8 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 12
+Coordinates x: 8 y: 11
+is diagonal end
+Moving to x: 8 y: 12
+Moving to x: 9 y: 12
+Moving to x: 9 y: 11
+Backtracking End!!!!!
+Moving to x: 9 y: 10
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 10 y: 11
+Coordinates x: 9 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 11
+Coordinates x: 9 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 11
+Coordinates x: 9 y: 10
+is diagonal end
+Moving to x: 9 y: 11
+Moving to x: 10 y: 11
+Moving to x: 10 y: 10
+Backtracking End!!!!!
+Moving to x: 10 y: 9
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 10 y: 10
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 10
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 10
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 10
+Coordinates x: 10 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 10
+Coordinates x: 10 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 10
+Coordinates x: 10 y: 9
+is diagonal end
+Moving to x: 10 y: 10
+Moving to x: 11 y: 10
+Moving to x: 11 y: 9
+Backtracking End!!!!!
+Moving to x: 11 y: 8
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 12 y: 9
+Coordinates x: 11 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 9
+Coordinates x: 11 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 9
+Coordinates x: 11 y: 8
+is diagonal end
+Moving to x: 11 y: 9
+Moving to x: 12 y: 9
+Moving to x: 12 y: 8
+Backtracking End!!!!!
+Moving to x: 12 y: 7
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 13 y: 8
+Coordinates x: 12 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 8
+Coordinates x: 12 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 8
+Coordinates x: 12 y: 7
+is diagonal end
+Moving to x: 12 y: 8
+Moving to x: 13 y: 8
+Moving to x: 13 y: 7
+Backtracking End!!!!!
+Moving to x: 13 y: 6
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 14 y: 7
+Coordinates x: 13 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 7
+Coordinates x: 13 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 7
+Coordinates x: 13 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 6
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 6
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 8
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 8
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 8
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 8
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 9
+Coordinates x: 13 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 9
+Coordinates x: 13 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 9
+Coordinates x: 13 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 9
+Coordinates x: 12 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 8
+Coordinates x: 14 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 8
+Coordinates x: 14 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 9
+Coordinates x: 12 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 9
+Coordinates x: 12 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 9
+Coordinates x: 12 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 10
+Coordinates x: 12 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 10
+Coordinates x: 12 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 10
+Coordinates x: 12 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 7
+Coordinates x: 13 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 10
+Coordinates x: 11 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 10
+Coordinates x: 11 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 10
+Coordinates x: 11 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 10
+Coordinates x: 11 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 8
+Coordinates x: 12 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 5
+Coordinates x: 14 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 5
+Coordinates x: 14 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 5
+Coordinates x: 14 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 6
+Coordinates x: 14 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 9
+Coordinates x: 11 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 11
+Coordinates x: 11 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 11
+Coordinates x: 11 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 11
+Coordinates x: 11 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 11
+Coordinates x: 10 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 4
+Coordinates x: 14 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 11
+Coordinates x: 10 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 11
+Coordinates x: 10 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 11
+Coordinates x: 10 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 10
+Coordinates x: 10 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 9
+Coordinates x: 15 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 9
+Coordinates x: 15 y: 8
+is diagonal end
+Moving to x: 13 y: 7
+Moving to x: 14 y: 7
+Moving to x: 15 y: 7
+Moving to x: 15 y: 8
+Moving to x: 15 y: 9
+Moving to x: 14 y: 9
+Moving to x: 14 y: 10
+Backtracking End!!!!!
+Moving to x: 13 y: 10
+Moving to x: 13 y: 11
+Moving to x: 12 y: 11
+Moving to x: 12 y: 12
+Moving to x: 13 y: 12
+Moving to x: 13 y: 13
+Moving to x: 12 y: 13
+Moving to x: 12 y: 14
+Moving to x: 13 y: 14
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 14 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 14 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 14 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+Moving to x: 14 y: 14
+Moving to x: 14 y: 13
+Moving to x: 13 y: 13
+Moving to x: 13 y: 12
+Moving to x: 14 y: 12
+Moving to x: 14 y: 11
+Backtracking End!!!!!
+Backtracking Start!!!!!
+Moving to x: 14 y: 12
+Backtracking End!!!!!
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 14 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 14 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 14 y: 12
+is diagonal end
+Moving to x: 13 y: 12
+Moving to x: 13 y: 13
+Moving to x: 14 y: 13
+Backtracking End!!!!!
+Backtracking Start!!!!!
+Moving to x: 14 y: 14
+Backtracking End!!!!!
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 0 y: 0
+is diagonal end
+Moving to x: 13 y: 14
+Moving to x: 13 y: 15
+Backtracking End!!!!!
+Backtracking Start!!!!!
+Moving to x: 12 y: 15
+Moving to x: 11 y: 15
+Backtracking End!!!!!
+Moving to x: 10 y: 15
+Moving to x: 9 y: 15
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 11 y: 14
+Coordinates x: 10 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 14
+Coordinates x: 10 y: 15
+is diagonal end
+Moving to x: 10 y: 15
+Moving to x: 11 y: 15
+Moving to x: 11 y: 14
+Moving to x: 11 y: 13
+Backtracking End!!!!!
+Moving to x: 11 y: 12
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 10 y: 13
+Coordinates x: 11 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 13
+Coordinates x: 11 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 14
+Coordinates x: 11 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 14
+Coordinates x: 11 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 14
+Coordinates x: 10 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 14
+Coordinates x: 10 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 15
+Coordinates x: 9 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 15
+Coordinates x: 9 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 15
+Coordinates x: 8 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 15
+Coordinates x: 8 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 14
+Coordinates x: 12 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 14
+Coordinates x: 12 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 14
+Coordinates x: 12 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+Moving to x: 11 y: 13
+Moving to x: 10 y: 13
+Moving to x: 10 y: 14
+Moving to x: 9 y: 14
+Moving to x: 8 y: 14
+Moving to x: 8 y: 15
+Moving to x: 7 y: 15
+Moving to x: 6 y: 15
+Moving to x: 5 y: 15
+Moving to x: 4 y: 15
+Moving to x: 3 y: 15
+Backtracking End!!!!!
+Moving to x: 2 y: 15
+Moving to x: 1 y: 15
+Moving to x: 0 y: 15
+Moving to x: 0 y: 14
+Moving to x: 0 y: 13
+Moving to x: 0 y: 12
+Moving to x: 0 y: 11
+Moving to x: 0 y: 10
+Moving to x: 0 y: 9
+Moving to x: 0 y: 8
+Moving to x: 0 y: 7
+Moving to x: 0 y: 6
+Moving to x: 0 y: 5
+Moving to x: 0 y: 4
+Moving to x: 0 y: 3
+Moving to x: 0 y: 2
+Moving to x: 0 y: 1
+Moving to x: 1 y: 1
+Moving to x: 2 y: 1
+Moving to x: 2 y: 2
+Moving to x: 3 y: 2
+Moving to x: 3 y: 1
+Moving to x: 4 y: 1
+Moving to x: 4 y: 2
+Moving to x: 5 y: 2
+Moving to x: 5 y: 1
+Moving to x: 6 y: 1
+Moving to x: 6 y: 2
+Moving to x: 7 y: 2
+Moving to x: 7 y: 1
+Moving to x: 8 y: 1
+Moving to x: 8 y: 2
+Moving to x: 9 y: 2
+Moving to x: 9 y: 1
+Moving to x: 10 y: 1
+Moving to x: 10 y: 2
+Moving to x: 11 y: 2
+Moving to x: 11 y: 1
+Moving to x: 12 y: 1
+Moving to x: 12 y: 2
+Moving to x: 13 y: 2
+Adding x: 13, y: 2 to branch......
+Moving to x: 13 y: 3
+Moving to x: 12 y: 3
+Moving to x: 12 y: 4
+Moving to x: 11 y: 4
+Adding x: 11, y: 4 to branch......
+Moving to x: 11 y: 5
+Backtracking Start!!!!!
+Moving to x: 11 y: 4
+Backtracking End!!!!!
+Adding x: 11, y: 4 to branch......
+Moving to x: 11 y: 3
+Backtracking Start!!!!!
+Moving to x: 11 y: 4
+Backtracking End!!!!!
+Moving to x: 10 y: 4
+Adding x: 10, y: 4 to branch......
+Moving to x: 10 y: 5
+Backtracking Start!!!!!
+Moving to x: 10 y: 4
+Backtracking End!!!!!
+Adding x: 10, y: 4 to branch......
+Moving to x: 10 y: 3
+Backtracking Start!!!!!
+Moving to x: 10 y: 4
+Backtracking End!!!!!
+Moving to x: 9 y: 4
+Adding x: 9, y: 4 to branch......
+Moving to x: 9 y: 5
+Backtracking Start!!!!!
+Moving to x: 9 y: 4
+Backtracking End!!!!!
+Adding x: 9, y: 4 to branch......
+Moving to x: 9 y: 3
+Backtracking Start!!!!!
+Moving to x: 9 y: 4
+Backtracking End!!!!!
+Moving to x: 8 y: 4
+Adding x: 8, y: 4 to branch......
+Moving to x: 8 y: 5
+Backtracking Start!!!!!
+Moving to x: 8 y: 4
+Backtracking End!!!!!
+Adding x: 8, y: 4 to branch......
+Moving to x: 8 y: 3
+Backtracking Start!!!!!
+Moving to x: 8 y: 4
+Backtracking End!!!!!
+Moving to x: 7 y: 4
+Adding x: 7, y: 4 to branch......
+Moving to x: 7 y: 5
+Backtracking Start!!!!!
+Moving to x: 7 y: 4
+Backtracking End!!!!!
+Adding x: 7, y: 4 to branch......
+Moving to x: 7 y: 3
+Backtracking Start!!!!!
+Moving to x: 7 y: 4
+Backtracking End!!!!!
+Moving to x: 6 y: 4
+Adding x: 6, y: 4 to branch......
+Moving to x: 6 y: 5
+Backtracking Start!!!!!
+Moving to x: 6 y: 4
+Backtracking End!!!!!
+Adding x: 6, y: 4 to branch......
+Moving to x: 6 y: 3
+Backtracking Start!!!!!
+Moving to x: 6 y: 4
+Backtracking End!!!!!
+Moving to x: 5 y: 4
+Adding x: 5, y: 4 to branch......
+Moving to x: 5 y: 5
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 5 y: 5
+Coordinates x: 0 y: 0
+is diagonal end
+Moving to x: 5 y: 4
+Backtracking End!!!!!
+Adding x: 5, y: 4 to branch......
+Moving to x: 5 y: 3
+Backtracking Start!!!!!
+Moving to x: 5 y: 4
+Backtracking End!!!!!
+Moving to x: 4 y: 4
+Adding x: 4, y: 4 to branch......
+Moving to x: 4 y: 5
+Backtracking Start!!!!!
+Moving to x: 4 y: 4
+Backtracking End!!!!!
+Adding x: 4, y: 4 to branch......
+Moving to x: 4 y: 3
+Backtracking Start!!!!!
+Moving to x: 4 y: 4
+Backtracking End!!!!!
+Moving to x: 3 y: 4
+Adding x: 3, y: 4 to branch......
+Moving to x: 3 y: 5
+Backtracking Start!!!!!
+Moving to x: 3 y: 4
+Backtracking End!!!!!
+Adding x: 3, y: 4 to branch......
+Moving to x: 3 y: 3
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 3 y: 3
+Coordinates x: 0 y: 0
+is diagonal end
+Moving to x: 3 y: 4
+Backtracking End!!!!!
+Moving to x: 2 y: 4
+Adding x: 2, y: 4 to branch......
+Moving to x: 2 y: 5
+Backtracking Start!!!!!
+Moving to x: 2 y: 4
+Backtracking End!!!!!
+Adding x: 2, y: 4 to branch......
+Moving to x: 2 y: 3
+Backtracking Start!!!!!
+Moving to x: 2 y: 4
+Backtracking End!!!!!
+Moving to x: 1 y: 4
+Adding x: 1, y: 4 to branch......
+Moving to x: 1 y: 5
+Moving to x: 1 y: 6
+Moving to x: 2 y: 6
+Adding x: 2, y: 6 to branch......
+Moving to x: 3 y: 6
+Moving to x: 4 y: 6
+Moving to x: 5 y: 6
+Moving to x: 6 y: 6
+Adding x: 6, y: 6 to branch......
+Moving to x: 7 y: 6
+Moving to x: 8 y: 6
+Moving to x: 9 y: 6
+Moving to x: 10 y: 6
+Backtracking Start!!!!!
+Moving to x: 9 y: 6
+Moving to x: 8 y: 6
+Moving to x: 7 y: 6
+Moving to x: 6 y: 6
+Backtracking End!!!!!
+Moving to x: 6 y: 7
+Moving to x: 5 y: 7
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 6 y: 6
+Coordinates x: 5 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 6
+Coordinates x: 5 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 6
+Coordinates x: 5 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 6
+Coordinates x: 6 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 6
+Coordinates x: 6 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 6
+Coordinates x: 6 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 6
+Coordinates x: 6 y: 7
+is diagonal end
+Moving to x: 6 y: 7
+Moving to x: 6 y: 6
+Moving to x: 5 y: 6
+Moving to x: 4 y: 6
+Moving to x: 3 y: 6
+Moving to x: 2 y: 6
+Backtracking End!!!!!
+Moving to x: 2 y: 7
+Adding x: 2, y: 7 to branch......
+Moving to x: 3 y: 7
+Adding x: 3, y: 7 to branch......
+Moving to x: 4 y: 7
+Backtracking Start!!!!!
+Moving to x: 3 y: 7
+Backtracking End!!!!!
+Moving to x: 3 y: 8
+Adding x: 3, y: 8 to branch......
+Moving to x: 4 y: 8
+Moving to x: 4 y: 9
+Adding x: 4, y: 9 to branch......
+Moving to x: 5 y: 9
+Moving to x: 5 y: 10
+Adding x: 5, y: 10 to branch......
+Moving to x: 6 y: 10
+Moving to x: 6 y: 9
+Adding x: 6, y: 9 to branch......
+Moving to x: 7 y: 9
+Backtracking Start!!!!!
+Moving to x: 6 y: 9
+Backtracking End!!!!!
+Moving to x: 6 y: 8
+Adding x: 6, y: 8 to branch......
+Moving to x: 7 y: 8
+Adding x: 7, y: 8 to branch......
+Moving to x: 8 y: 8
+Moving to x: 8 y: 7
+Moving to x: 7 y: 7
+Destination Found: (7, 7) to (8, 8)
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 7 y: 7
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 7
+Coordinates x: 0 y: 0
+is diagonal end
+Moving to x: 7 y: 8
+Backtracking End!!!!!
+Backtracking Start!!!!!
+Moving to x: 6 y: 8
+Backtracking End!!!!!
+Moving to x: 5 y: 8
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 9
+Coordinates x: 6 y: 8
+is diagonal end
+Moving to x: 6 y: 8
+Moving to x: 6 y: 9
+Moving to x: 6 y: 10
+Moving to x: 5 y: 10
+Backtracking End!!!!!
+Moving to x: 5 y: 11
+Moving to x: 4 y: 11
+Moving to x: 4 y: 12
+Moving to x: 3 y: 12
+Adding x: 3, y: 12 to branch......
+Moving to x: 3 y: 13
+Moving to x: 2 y: 13
+Moving to x: 2 y: 12
+Moving to x: 2 y: 11
+Moving to x: 2 y: 10
+Moving to x: 2 y: 9
+Moving to x: 2 y: 8
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 9
+Coordinates x: 6 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 6
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 6
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 6
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 6
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 11
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 11
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 12
+Coordinates x: 5 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 12
+Coordinates x: 5 y: 11
+is diagonal end
+Moving to x: 2 y: 7
+Moving to x: 3 y: 7
+Moving to x: 3 y: 8
+Moving to x: 4 y: 8
+Moving to x: 4 y: 9
+Moving to x: 5 y: 9
+Moving to x: 5 y: 10
+Moving to x: 5 y: 11
+Moving to x: 4 y: 11
+Moving to x: 4 y: 12
+Moving to x: 3 y: 12
+Backtracking End!!!!!
+Moving to x: 3 y: 11
+Moving to x: 3 y: 10
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 4 y: 12
+Coordinates x: 3 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 12
+Coordinates x: 3 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 11
+Coordinates x: 3 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 11
+Coordinates x: 3 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 11
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 11
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 9
+Coordinates x: 6 y: 10
+is diagonal end
+Moving to x: 3 y: 11
+Moving to x: 3 y: 12
+Moving to x: 4 y: 12
+Moving to x: 4 y: 11
+Moving to x: 5 y: 11
+Moving to x: 5 y: 10
+Moving to x: 5 y: 9
+Moving to x: 4 y: 9
+Backtracking End!!!!!
+Moving to x: 4 y: 10
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 9
+Coordinates x: 6 y: 10
+is diagonal end
+Moving to x: 4 y: 9
+Moving to x: 4 y: 8
+Moving to x: 3 y: 8
+Backtracking End!!!!!
+Moving to x: 3 y: 9
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+Moving to x: 3 y: 8
+Moving to x: 3 y: 7
+Moving to x: 2 y: 7
+Backtracking End!!!!!
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 1 y: 6
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 6
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 5
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 5
+Coordinates x: 2 y: 6
+is diagonal end
+Moving to x: 2 y: 6
+Moving to x: 1 y: 6
+Moving to x: 1 y: 5
+Moving to x: 1 y: 4
+Backtracking End!!!!!
+Moving to x: 1 y: 3
+Moving to x: 1 y: 2
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 2 y: 4
+Coordinates x: 1 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 4
+Coordinates x: 1 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 4
+Coordinates x: 1 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 4
+Coordinates x: 1 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 3
+Coordinates x: 1 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 5
+Coordinates x: 1 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 3
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 5
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 3
+Coordinates x: 3 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 5
+Coordinates x: 3 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 6
+Coordinates x: 1 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 6
+Coordinates x: 1 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 6
+Coordinates x: 1 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 7
+Coordinates x: 1 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 7
+Coordinates x: 1 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 7
+Coordinates x: 1 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 3
+Coordinates x: 4 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 5
+Coordinates x: 4 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 9
+Coordinates x: 6 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 3
+Coordinates x: 5 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 5
+Coordinates x: 5 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 7
+Coordinates x: 6 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 7
+Coordinates x: 6 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 7
+Coordinates x: 7 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 7
+Coordinates x: 7 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 11
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 11
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 12
+Coordinates x: 5 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 12
+Coordinates x: 5 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 3
+Coordinates x: 6 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 12
+Coordinates x: 4 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 12
+Coordinates x: 4 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 12
+Coordinates x: 4 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 11
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 11
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 5
+Coordinates x: 6 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 13
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 13
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 13
+Coordinates x: 3 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 13
+Coordinates x: 3 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 12
+Coordinates x: 3 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 12
+Coordinates x: 3 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 3
+Coordinates x: 7 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 5
+Coordinates x: 7 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 7
+Coordinates x: 5 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 7
+Coordinates x: 5 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 7
+Coordinates x: 6 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 3
+Coordinates x: 8 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 5
+Coordinates x: 8 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 3
+Coordinates x: 9 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 5
+Coordinates x: 9 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 3
+Coordinates x: 10 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 5
+Coordinates x: 10 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 3
+Coordinates x: 11 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 3
+Coordinates x: 11 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 3
+Coordinates x: 12 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 3
+Coordinates x: 12 y: 4
+is diagonal end
+Moving to x: 1 y: 3
+Moving to x: 1 y: 4
+Moving to x: 2 y: 4
+Moving to x: 3 y: 4
+Moving to x: 4 y: 4
+Moving to x: 5 y: 4
+Moving to x: 6 y: 4
+Moving to x: 7 y: 4
+Moving to x: 8 y: 4
+Moving to x: 9 y: 4
+Moving to x: 10 y: 4
+Moving to x: 11 y: 4
+Moving to x: 12 y: 4
+Moving to x: 12 y: 3
+Moving to x: 13 y: 3
+Moving to x: 13 y: 2
+Backtracking End!!!!!
+Moving to x: 13 y: 1
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 12 y: 2
+Coordinates x: 13 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 2
+Coordinates x: 13 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 1
+Coordinates x: 13 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 1
+Coordinates x: 13 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 1
+Coordinates x: 12 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 1
+Coordinates x: 12 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 2
+Coordinates x: 12 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 2
+Coordinates x: 12 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 2
+Coordinates x: 11 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 2
+Coordinates x: 11 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 1
+Coordinates x: 11 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 1
+Coordinates x: 11 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 1
+Coordinates x: 10 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 1
+Coordinates x: 10 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 2
+Coordinates x: 10 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 2
+Coordinates x: 10 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 2
+Coordinates x: 9 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 2
+Coordinates x: 9 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 1
+Coordinates x: 9 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 1
+Coordinates x: 9 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 1
+Coordinates x: 8 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 1
+Coordinates x: 8 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 2
+Coordinates x: 8 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 2
+Coordinates x: 8 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 2
+Coordinates x: 7 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 2
+Coordinates x: 7 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 1
+Coordinates x: 7 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 1
+Coordinates x: 7 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 1
+Coordinates x: 6 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 1
+Coordinates x: 6 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 2
+Coordinates x: 6 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 2
+Coordinates x: 6 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 2
+Coordinates x: 5 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 2
+Coordinates x: 5 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 3
+Coordinates x: 13 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 3
+Coordinates x: 13 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 4
+Coordinates x: 13 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 4
+Coordinates x: 13 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 4
+Coordinates x: 12 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 4
+Coordinates x: 12 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 4
+Coordinates x: 12 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 4
+Coordinates x: 12 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 5
+Coordinates x: 12 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 1
+Coordinates x: 5 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 1
+Coordinates x: 5 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 1
+Coordinates x: 4 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 1
+Coordinates x: 4 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 2
+Coordinates x: 4 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 2
+Coordinates x: 4 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 3
+Coordinates x: 12 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 2
+Coordinates x: 3 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 2
+Coordinates x: 3 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 1
+Coordinates x: 3 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 1
+Coordinates x: 3 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 1
+Coordinates x: 2 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 1
+Coordinates x: 2 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 5
+Coordinates x: 11 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 3
+Coordinates x: 11 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 0 y: 2
+Coordinates x: 1 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 0 y: 2
+Coordinates x: 1 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 5
+Coordinates x: 10 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 3
+Coordinates x: 10 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 5
+Coordinates x: 9 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 3
+Coordinates x: 9 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 5
+Coordinates x: 8 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 3
+Coordinates x: 8 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 5
+Coordinates x: 7 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 3
+Coordinates x: 7 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 5
+Coordinates x: 6 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 3
+Coordinates x: 6 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 5
+Coordinates x: 5 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 3
+Coordinates x: 5 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 5
+Coordinates x: 4 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 3
+Coordinates x: 4 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 5
+Coordinates x: 3 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 3
+Coordinates x: 3 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 5
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 5
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 3
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 3
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 6
+Coordinates x: 1 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 6
+Coordinates x: 1 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 6
+Coordinates x: 1 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 7
+Coordinates x: 1 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 7
+Coordinates x: 1 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 7
+Coordinates x: 1 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 9
+Coordinates x: 6 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 11
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 11
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 12
+Coordinates x: 5 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 12
+Coordinates x: 5 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 12
+Coordinates x: 4 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 12
+Coordinates x: 4 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 12
+Coordinates x: 4 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 13
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 13
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 13
+Coordinates x: 3 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 13
+Coordinates x: 3 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 11
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 11
+Coordinates x: 4 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 12
+Coordinates x: 3 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 12
+Coordinates x: 3 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 7
+Coordinates x: 6 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 7
+Coordinates x: 6 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 7
+Coordinates x: 7 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 7
+Coordinates x: 7 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 15
+Coordinates x: 0 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 15
+Coordinates x: 0 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 7
+Coordinates x: 5 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 7
+Coordinates x: 5 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 7
+Coordinates x: 6 y: 6
+is diagonal end
+Moving to x: 13 y: 2
+Moving to x: 12 y: 2
+Moving to x: 12 y: 1
+Moving to x: 11 y: 1
+Moving to x: 11 y: 2
+Moving to x: 10 y: 2
+Moving to x: 10 y: 1
+Moving to x: 9 y: 1
+Moving to x: 9 y: 2
+Moving to x: 8 y: 2
+Moving to x: 8 y: 1
+Moving to x: 7 y: 1
+Moving to x: 7 y: 2
+Moving to x: 6 y: 2
+Moving to x: 6 y: 1
+Moving to x: 5 y: 1
+Moving to x: 5 y: 2
+Moving to x: 4 y: 2
+Moving to x: 4 y: 1
+Moving to x: 3 y: 1
+Moving to x: 3 y: 2
+Moving to x: 2 y: 2
+Moving to x: 2 y: 1
+Moving to x: 1 y: 1
+Moving to x: 0 y: 1
+Moving to x: 0 y: 2
+Moving to x: 0 y: 3
+Moving to x: 0 y: 4
+Moving to x: 0 y: 5
+Moving to x: 0 y: 6
+Moving to x: 0 y: 7
+Moving to x: 0 y: 8
+Moving to x: 0 y: 9
+Moving to x: 0 y: 10
+Moving to x: 0 y: 11
+Moving to x: 0 y: 12
+Moving to x: 0 y: 13
+Moving to x: 0 y: 14
+Moving to x: 0 y: 15
+Moving to x: 1 y: 15
+Moving to x: 2 y: 15
+Moving to x: 3 y: 15
+Moving to x: 3 y: 14
+Backtracking End!!!!!
+Moving to x: 2 y: 14
+Moving to x: 1 y: 14
+Moving to x: 1 y: 13
+Moving to x: 1 y: 12
+Moving to x: 1 y: 11
+Moving to x: 1 y: 10
+Moving to x: 1 y: 9
+Moving to x: 1 y: 8
+Moving to x: 1 y: 7
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 2 y: 14
+Coordinates x: 1 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 14
+Coordinates x: 1 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 15
+Coordinates x: 2 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 15
+Coordinates x: 2 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 15
+Coordinates x: 2 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 13
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 13
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 13
+Coordinates x: 4 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 13
+Coordinates x: 4 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 12
+Coordinates x: 4 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 12
+Coordinates x: 4 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 12
+Coordinates x: 5 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 12
+Coordinates x: 5 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 11
+Coordinates x: 5 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 11
+Coordinates x: 5 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 11
+Coordinates x: 6 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 11
+Coordinates x: 6 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 10
+Coordinates x: 6 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 10
+Coordinates x: 6 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 10
+Coordinates x: 7 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 10
+Coordinates x: 7 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 9
+Coordinates x: 7 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 9
+Coordinates x: 7 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 9
+Coordinates x: 8 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 9
+Coordinates x: 8 y: 10
+is diagonal end
+Moving to x: 1 y: 8
+Moving to x: 1 y: 9
+Moving to x: 1 y: 10
+Moving to x: 1 y: 11
+Moving to x: 1 y: 12
+Moving to x: 1 y: 13
+Moving to x: 1 y: 14
+Moving to x: 2 y: 14
+Moving to x: 3 y: 14
+Moving to x: 4 y: 14
+Moving to x: 4 y: 13
+Moving to x: 5 y: 13
+Moving to x: 5 y: 12
+Moving to x: 6 y: 12
+Moving to x: 6 y: 11
+Moving to x: 7 y: 11
+Moving to x: 7 y: 10
+Moving to x: 8 y: 10
+Moving to x: 8 y: 9
+Moving to x: 9 y: 9
+Moving to x: 9 y: 8
+Backtracking End!!!!!
+Moving to x: 9 y: 7
+Backtracking Start!!!!!
+is diagonal true start
+Coordinates x: 10 y: 8
+Coordinates x: 9 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 8
+Coordinates x: 9 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 7
+Coordinates x: 9 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 7
+Coordinates x: 9 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 7
+Coordinates x: 10 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 7
+Coordinates x: 10 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 6
+Coordinates x: 10 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 6
+Coordinates x: 10 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 6
+Coordinates x: 11 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 6
+Coordinates x: 11 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 5
+Coordinates x: 11 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 5
+Coordinates x: 11 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 5
+Coordinates x: 12 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 5
+Coordinates x: 12 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 4
+Coordinates x: 12 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 4
+Coordinates x: 12 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 4
+Coordinates x: 13 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 4
+Coordinates x: 13 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 3
+Coordinates x: 13 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 3
+Coordinates x: 13 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 9
+Coordinates x: 9 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 9
+Coordinates x: 9 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 3
+Coordinates x: 14 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 3
+Coordinates x: 14 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 2
+Coordinates x: 14 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 2
+Coordinates x: 14 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 2
+Coordinates x: 15 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 2
+Coordinates x: 15 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 1
+Coordinates x: 15 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 1
+Coordinates x: 15 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 10
+Coordinates x: 9 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 10
+Coordinates x: 9 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 10
+Coordinates x: 8 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 10
+Coordinates x: 8 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 1
+Coordinates x: 14 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 1
+Coordinates x: 14 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 0
+Coordinates x: 14 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 0
+Coordinates x: 14 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 0
+Coordinates x: 15 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 0
+Coordinates x: 15 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 11
+Coordinates x: 8 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 11
+Coordinates x: 8 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 11
+Coordinates x: 7 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 11
+Coordinates x: 7 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 12
+Coordinates x: 7 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 12
+Coordinates x: 7 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 12
+Coordinates x: 6 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 12
+Coordinates x: 6 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 13
+Coordinates x: 6 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 13
+Coordinates x: 6 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 13
+Coordinates x: 5 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 13
+Coordinates x: 5 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 14
+Coordinates x: 5 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 14
+Coordinates x: 5 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 14
+Coordinates x: 4 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 14
+Coordinates x: 4 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 14
+Coordinates x: 4 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 15
+Coordinates x: 4 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 15
+Coordinates x: 4 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 15
+Coordinates x: 4 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 13
+Coordinates x: 2 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 13
+Coordinates x: 2 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 0 y: 14
+Coordinates x: 1 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 0 y: 14
+Coordinates x: 1 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 14
+Coordinates x: 7 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 14
+Coordinates x: 7 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 14
+Coordinates x: 8 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 14
+Coordinates x: 8 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 13
+Coordinates x: 9 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 13
+Coordinates x: 9 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 13
+Coordinates x: 10 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 13
+Coordinates x: 10 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 13
+Coordinates x: 10 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 12
+Coordinates x: 10 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 14
+Coordinates x: 10 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 14
+Coordinates x: 10 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 14
+Coordinates x: 12 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 14
+Coordinates x: 12 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 14
+Coordinates x: 12 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 12 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 12 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 12 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 12
+Coordinates x: 12 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 12
+Coordinates x: 12 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 12
+Coordinates x: 12 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 11
+Coordinates x: 12 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 11
+Coordinates x: 12 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 11
+Coordinates x: 12 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 10
+Coordinates x: 12 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 10
+Coordinates x: 12 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 13
+Coordinates x: 14 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 13
+Coordinates x: 14 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 10
+Coordinates x: 13 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 10
+Coordinates x: 13 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 10
+Coordinates x: 13 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 9
+Coordinates x: 13 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 9
+Coordinates x: 13 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 11
+Coordinates x: 14 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 11
+Coordinates x: 14 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 10
+Coordinates x: 14 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 10
+Coordinates x: 14 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 9
+Coordinates x: 14 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 9
+Coordinates x: 14 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 8
+Coordinates x: 14 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 8
+Coordinates x: 14 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 10
+Coordinates x: 14 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 10
+Coordinates x: 14 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 7
+Coordinates x: 15 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 7
+Coordinates x: 15 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 7
+Coordinates x: 15 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 6
+Coordinates x: 15 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 6
+Coordinates x: 15 y: 7
+is diagonal end
+Moving to x: 9 y: 8
+Moving to x: 10 y: 8
+Moving to x: 10 y: 7
+Moving to x: 11 y: 7
+Moving to x: 11 y: 6
+Moving to x: 12 y: 6
+Moving to x: 12 y: 5
+Moving to x: 13 y: 5
+Moving to x: 13 y: 4
+Moving to x: 14 y: 4
+Moving to x: 14 y: 3
+Moving to x: 15 y: 3
+Moving to x: 15 y: 2
+Moving to x: 14 y: 2
+Moving to x: 14 y: 1
+Moving to x: 15 y: 1
+Moving to x: 15 y: 0
+Moving to x: 14 y: 0
+Moving to x: 13 y: 0
+Moving to x: 12 y: 0
+Moving to x: 11 y: 0
+Moving to x: 10 y: 0
+Moving to x: 9 y: 0
+Moving to x: 8 y: 0
+Moving to x: 7 y: 0
+Moving to x: 6 y: 0
+Moving to x: 5 y: 0
+Moving to x: 4 y: 0
+Moving to x: 3 y: 0
+Moving to x: 2 y: 0
+Moving to x: 1 y: 0
+Moving to x: 0 y: 0
+Backtracking End!!!!!
+Moving to x: 255 y: 255
+Overall Steps Taken for maze is 506
+Shortest Solving: Path to destination
+is diagonal true start
+Coordinates x: 0 y: 0
+Coordinates x: 0 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 1
+Coordinates x: 14 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 1
+Coordinates x: 14 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 1
+Coordinates x: 15 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 1
+Coordinates x: 15 y: 0
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 2
+Coordinates x: 15 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 2
+Coordinates x: 15 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 2
+Coordinates x: 14 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 2
+Coordinates x: 14 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 3
+Coordinates x: 14 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 3
+Coordinates x: 14 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 3
+Coordinates x: 15 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 3
+Coordinates x: 15 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 4
+Coordinates x: 15 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 4
+Coordinates x: 15 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 4
+Coordinates x: 14 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 4
+Coordinates x: 14 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 5
+Coordinates x: 14 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 5
+Coordinates x: 14 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 5
+Coordinates x: 13 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 5
+Coordinates x: 13 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 6
+Coordinates x: 13 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 6
+Coordinates x: 13 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 6
+Coordinates x: 12 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 6
+Coordinates x: 12 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 7
+Coordinates x: 12 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 7
+Coordinates x: 12 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 7
+Coordinates x: 11 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 7
+Coordinates x: 11 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 8
+Coordinates x: 11 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 8
+Coordinates x: 11 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 8
+Coordinates x: 10 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 8
+Coordinates x: 10 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 8
+Coordinates x: 10 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 7
+Coordinates x: 10 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 9
+Coordinates x: 10 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 9
+Coordinates x: 10 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 9
+Coordinates x: 9 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 9
+Coordinates x: 9 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 10
+Coordinates x: 9 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 10
+Coordinates x: 9 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 10
+Coordinates x: 8 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 10
+Coordinates x: 8 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 11
+Coordinates x: 8 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 11
+Coordinates x: 8 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 11
+Coordinates x: 7 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 11
+Coordinates x: 7 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 12
+Coordinates x: 7 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 12
+Coordinates x: 7 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 12
+Coordinates x: 6 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 12
+Coordinates x: 6 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 13
+Coordinates x: 6 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 13
+Coordinates x: 6 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 13
+Coordinates x: 5 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 13
+Coordinates x: 5 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 14
+Coordinates x: 5 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 14
+Coordinates x: 5 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 14
+Coordinates x: 4 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 14
+Coordinates x: 4 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 14
+Coordinates x: 4 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 15
+Coordinates x: 4 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 15
+Coordinates x: 4 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 15
+Coordinates x: 4 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 15
+Coordinates x: 3 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 13
+Coordinates x: 2 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 13
+Coordinates x: 2 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 0 y: 14
+Coordinates x: 1 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 0 y: 14
+Coordinates x: 1 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 14
+Coordinates x: 7 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 14
+Coordinates x: 7 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 14
+Coordinates x: 8 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 14
+Coordinates x: 8 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 13
+Coordinates x: 9 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 13
+Coordinates x: 9 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 13
+Coordinates x: 10 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 13
+Coordinates x: 10 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 13
+Coordinates x: 10 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 12
+Coordinates x: 10 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 14
+Coordinates x: 10 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 14
+Coordinates x: 10 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 15
+Coordinates x: 11 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 14
+Coordinates x: 12 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 14
+Coordinates x: 12 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 14
+Coordinates x: 12 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 12 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 12 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 13
+Coordinates x: 12 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 12
+Coordinates x: 12 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 12
+Coordinates x: 12 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 12
+Coordinates x: 12 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 14
+Coordinates x: 13 y: 15
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 11
+Coordinates x: 12 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 11
+Coordinates x: 12 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 11
+Coordinates x: 12 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 10
+Coordinates x: 12 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 10
+Coordinates x: 12 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 12
+Coordinates x: 13 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 13
+Coordinates x: 13 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 13
+Coordinates x: 14 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 13
+Coordinates x: 14 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 10
+Coordinates x: 13 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 10
+Coordinates x: 13 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 10
+Coordinates x: 13 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 9
+Coordinates x: 13 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 9
+Coordinates x: 13 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 11
+Coordinates x: 13 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 11
+Coordinates x: 14 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 11
+Coordinates x: 14 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 10
+Coordinates x: 14 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 10
+Coordinates x: 14 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 12
+Coordinates x: 14 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 9
+Coordinates x: 14 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 9
+Coordinates x: 14 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 8
+Coordinates x: 14 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 8
+Coordinates x: 14 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 10
+Coordinates x: 14 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 10
+Coordinates x: 14 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 7
+Coordinates x: 15 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 7
+Coordinates x: 15 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 7
+Coordinates x: 15 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 6
+Coordinates x: 15 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 6
+Coordinates x: 15 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 8
+Coordinates x: 14 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 8
+Coordinates x: 14 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 8
+Coordinates x: 14 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 8
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 8
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 8
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 7
+Coordinates x: 13 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 9
+Coordinates x: 13 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 9
+Coordinates x: 13 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 9
+Coordinates x: 13 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 9
+Coordinates x: 12 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 9
+Coordinates x: 12 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 9
+Coordinates x: 12 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 8
+Coordinates x: 12 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 6
+Coordinates x: 14 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 14 y: 8
+Coordinates x: 13 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 10
+Coordinates x: 12 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 10
+Coordinates x: 12 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 10
+Coordinates x: 12 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 10
+Coordinates x: 11 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 10
+Coordinates x: 11 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 10
+Coordinates x: 11 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 9
+Coordinates x: 11 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 9
+Coordinates x: 12 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 11
+Coordinates x: 11 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 11
+Coordinates x: 11 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 11
+Coordinates x: 11 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 11
+Coordinates x: 10 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 11
+Coordinates x: 10 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 11
+Coordinates x: 10 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 10
+Coordinates x: 10 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 10
+Coordinates x: 11 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 5
+Coordinates x: 14 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 5
+Coordinates x: 14 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 5
+Coordinates x: 14 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 6
+Coordinates x: 14 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 12
+Coordinates x: 10 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 12
+Coordinates x: 10 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 12
+Coordinates x: 10 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 12
+Coordinates x: 9 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 12
+Coordinates x: 9 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 12
+Coordinates x: 9 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 11
+Coordinates x: 9 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 11
+Coordinates x: 10 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 15 y: 4
+Coordinates x: 14 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 13
+Coordinates x: 9 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 13
+Coordinates x: 9 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 13
+Coordinates x: 9 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 12
+Coordinates x: 9 y: 11
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 13
+Coordinates x: 8 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 13
+Coordinates x: 8 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 13
+Coordinates x: 8 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 12
+Coordinates x: 8 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 13
+Coordinates x: 8 y: 12
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 14
+Coordinates x: 8 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 14
+Coordinates x: 8 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 14
+Coordinates x: 7 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 14
+Coordinates x: 7 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 14
+Coordinates x: 7 y: 13
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 13
+Coordinates x: 7 y: 14
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 1
+Coordinates x: 0 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 1
+Coordinates x: 0 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 2
+Coordinates x: 1 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 2
+Coordinates x: 1 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 2
+Coordinates x: 2 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 2
+Coordinates x: 2 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 1
+Coordinates x: 2 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 1
+Coordinates x: 2 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 1
+Coordinates x: 3 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 1
+Coordinates x: 3 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 2
+Coordinates x: 3 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 2
+Coordinates x: 3 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 2
+Coordinates x: 4 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 2
+Coordinates x: 4 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 1
+Coordinates x: 4 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 1
+Coordinates x: 4 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 1
+Coordinates x: 5 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 1
+Coordinates x: 5 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 2
+Coordinates x: 5 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 2
+Coordinates x: 5 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 2
+Coordinates x: 6 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 2
+Coordinates x: 6 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 1
+Coordinates x: 6 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 1
+Coordinates x: 6 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 1
+Coordinates x: 7 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 1
+Coordinates x: 7 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 2
+Coordinates x: 7 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 2
+Coordinates x: 7 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 2
+Coordinates x: 8 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 2
+Coordinates x: 8 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 1
+Coordinates x: 8 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 1
+Coordinates x: 8 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 1
+Coordinates x: 9 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 1
+Coordinates x: 9 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 2
+Coordinates x: 9 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 2
+Coordinates x: 9 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 2
+Coordinates x: 10 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 2
+Coordinates x: 10 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 1
+Coordinates x: 10 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 1
+Coordinates x: 10 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 1
+Coordinates x: 11 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 1
+Coordinates x: 11 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 2
+Coordinates x: 11 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 2
+Coordinates x: 11 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 2
+Coordinates x: 12 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 2
+Coordinates x: 12 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 2
+Coordinates x: 12 y: 1
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 3
+Coordinates x: 12 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 3
+Coordinates x: 12 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 3
+Coordinates x: 13 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 3
+Coordinates x: 13 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 4
+Coordinates x: 13 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 12 y: 4
+Coordinates x: 13 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 4
+Coordinates x: 12 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 4
+Coordinates x: 12 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 4
+Coordinates x: 12 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 4
+Coordinates x: 12 y: 3
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 5
+Coordinates x: 12 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 11 y: 3
+Coordinates x: 12 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 13 y: 1
+Coordinates x: 12 y: 2
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 5
+Coordinates x: 11 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 10 y: 3
+Coordinates x: 11 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 5
+Coordinates x: 10 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 9 y: 3
+Coordinates x: 10 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 5
+Coordinates x: 9 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 8 y: 3
+Coordinates x: 9 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 5
+Coordinates x: 8 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 3
+Coordinates x: 8 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 5
+Coordinates x: 7 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 3
+Coordinates x: 7 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 5
+Coordinates x: 6 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 3
+Coordinates x: 6 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 5
+Coordinates x: 5 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 3
+Coordinates x: 5 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 5
+Coordinates x: 4 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 3
+Coordinates x: 4 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 5
+Coordinates x: 3 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 3
+Coordinates x: 3 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 5
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 5
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 3
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 1 y: 3
+Coordinates x: 2 y: 4
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 6
+Coordinates x: 1 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 6
+Coordinates x: 1 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 6
+Coordinates x: 1 y: 5
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 7
+Coordinates x: 1 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 7
+Coordinates x: 1 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 2 y: 7
+Coordinates x: 1 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 7
+Coordinates x: 2 y: 6
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 3 y: 8
+Coordinates x: 2 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 8
+Coordinates x: 3 y: 7
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 4 y: 9
+Coordinates x: 3 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 9
+Coordinates x: 4 y: 8
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 5 y: 10
+Coordinates x: 4 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 10
+Coordinates x: 5 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 6 y: 9
+Coordinates x: 5 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 9
+Coordinates x: 6 y: 10
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+is diagonal true start
+Coordinates x: 7 y: 8
+Coordinates x: 6 y: 9
+is diagonal end
+Moving to x: 1 y: 0
+Moving to x: 2 y: 0
+Moving to x: 3 y: 0
+Moving to x: 4 y: 0
+Moving to x: 5 y: 0
+Moving to x: 6 y: 0
+Moving to x: 7 y: 0
+Moving to x: 8 y: 0
+Moving to x: 9 y: 0
+Moving to x: 10 y: 0
+Moving to x: 11 y: 0
+Moving to x: 12 y: 0
+Moving to x: 13 y: 0
+Moving to x: 14 y: 0
+Moving to x: 15 y: 0
+Moving to x: 15 y: 1
+Moving to x: 14 y: 1
+Moving to x: 14 y: 2
+Moving to x: 15 y: 2
+Moving to x: 15 y: 3
+Moving to x: 14 y: 3
+Moving to x: 14 y: 4
+Moving to x: 13 y: 4
+Moving to x: 13 y: 5
+Moving to x: 12 y: 5
+Moving to x: 12 y: 6
+Moving to x: 11 y: 6
+Moving to x: 11 y: 7
+Moving to x: 10 y: 7
+Moving to x: 10 y: 8
+Moving to x: 9 y: 8
+Moving to x: 9 y: 9
+Moving to x: 8 y: 9
+Moving to x: 8 y: 10
+Moving to x: 7 y: 10
+Moving to x: 7 y: 11
+Moving to x: 6 y: 11
+Moving to x: 6 y: 12
+Moving to x: 5 y: 12
+Moving to x: 5 y: 13
+Moving to x: 4 y: 13
+Moving to x: 4 y: 14
+Moving to x: 3 y: 14
+Moving to x: 3 y: 15
+Moving to x: 2 y: 15
+Moving to x: 1 y: 15
+Moving to x: 0 y: 15
+Moving to x: 0 y: 14
+Moving to x: 0 y: 13
+Moving to x: 0 y: 12
+Moving to x: 0 y: 11
+Moving to x: 0 y: 10
+Moving to x: 0 y: 9
+Moving to x: 0 y: 8
+Moving to x: 0 y: 7
+Moving to x: 0 y: 6
+Moving to x: 0 y: 5
+Moving to x: 0 y: 4
+Moving to x: 0 y: 3
+Moving to x: 0 y: 2
+Moving to x: 0 y: 1
+Moving to x: 1 y: 1
+Moving to x: 2 y: 1
+Moving to x: 2 y: 2
+Moving to x: 3 y: 2
+Moving to x: 3 y: 1
+Moving to x: 4 y: 1
+Moving to x: 4 y: 2
+Moving to x: 5 y: 2
+Moving to x: 5 y: 1
+Moving to x: 6 y: 1
+Moving to x: 6 y: 2
+Moving to x: 7 y: 2
+Moving to x: 7 y: 1
+Moving to x: 8 y: 1
+Moving to x: 8 y: 2
+Moving to x: 9 y: 2
+Moving to x: 9 y: 1
+Moving to x: 10 y: 1
+Moving to x: 10 y: 2
+Moving to x: 11 y: 2
+Moving to x: 11 y: 1
+Moving to x: 12 y: 1
+Moving to x: 12 y: 2
+Moving to x: 13 y: 2
+Moving to x: 13 y: 3
+Moving to x: 12 y: 3
+Moving to x: 12 y: 4
+Moving to x: 11 y: 4
+Moving to x: 10 y: 4
+Moving to x: 9 y: 4
+Moving to x: 8 y: 4
+Moving to x: 7 y: 4
+Moving to x: 6 y: 4
+Moving to x: 5 y: 4
+Moving to x: 4 y: 4
+Moving to x: 3 y: 4
+Moving to x: 2 y: 4
+Moving to x: 1 y: 4
+Moving to x: 1 y: 5
+Moving to x: 1 y: 6
+Moving to x: 2 y: 6
+Moving to x: 2 y: 7
+Moving to x: 3 y: 7
+Moving to x: 3 y: 8
+Moving to x: 4 y: 8
+Moving to x: 4 y: 9
+Moving to x: 5 y: 9
+Moving to x: 5 y: 10
+Moving to x: 6 y: 10
+Moving to x: 6 y: 9
+Moving to x: 6 y: 8
+Moving to x: 7 y: 8
+Moving to x: 8 y: 8
+Steps taken: 114
